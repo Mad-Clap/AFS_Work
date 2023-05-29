@@ -158,6 +158,8 @@ O recurso solicitado não foi encontrado.
 
 
 # Interceptadores (identificado por: Breno, Rafael )
+FONTE: https://axios-http.com/docs/interceptors
+
 Interceptadores são códigos a serem executados parar tratar os dados de uma requisição ou resposta antes deles serem enviados pelo lado Servidor ou utilizadps pelo lado Cliente.
 
 # Funções Assíncronas (identificado por: )
@@ -285,6 +287,8 @@ FONTE: https://www.lullabot.com/articles/what-is-an-isomorphic-application
 
 Uma aplicação isomórfica pode rodar o mesmo código tanto do lado servidor quanto do lado Cliente. Isso permite que aplicações construídas com frameworks isomórficos possam, após serem carregadas no navegador WEB, realizar requisições direto à base de dados que realiza a persistência da aplicação, sem a necessidade de requisitar dados novamente ao servidor.
 # XSRF (identificado por: )
+
+FONTE: https://en.wikipedia.org/wiki/Cross-site_request_forgery
 
 Ataques XSRF são ataques de Cross-site Request Forgery, e ocorrem através do envio de requisições Web maliciosas por um usuário autenticado e confiável pela aplicação web, sem o conhecimento do próprio usuário de as estar enviando. Elas podem ser embutidas em e-mails, ou mesmo atributos de imagem HTML, de forma que apenas ao carregar uma página a requisição seja realizada, mesmo sem o usuário efetivamente clicar no link da requisição.
 
